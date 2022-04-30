@@ -31,8 +31,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "autoUpdate3",
+    "appId": "3.update.auto",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
@@ -90,13 +90,13 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "iLyass-bq",
+      "repo": "auto-update-test-3"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://iLyass-bq/auto-update-test-3.git"
   },
   "author": {
     "name": "Electron React Boilerplate Maintainers",
